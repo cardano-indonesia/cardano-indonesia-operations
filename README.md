@@ -1,4 +1,4 @@
 # Cardano Indonesia Team Operations
 
-TBD
+Repository for all team operation documentation, planning and project board.
 
