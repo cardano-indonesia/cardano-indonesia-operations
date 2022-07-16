@@ -27,3 +27,4 @@ Repository for all team operation documentation, planning and project board.
 - [Cardano Indonesia Team Meeting #22: 27 June 2022 until 03 July 2022](https://github.com/cardano-indonesia/cardano-indonesia-operations/issues/47)
 - [Cardano Indonesia Team Meeting #23: 04 July 2022 until 10 July 2022](https://github.com/cardano-indonesia/cardano-indonesia-operations/issues/48)
 - [Cardano Indonesia Team Meeting #24: 11 July 2022 until 17 July 2022](https://github.com/cardano-indonesia/cardano-indonesia-operations/issues/49)
+- [Cardano Indonesia Team Meeting #25: 18 July 2022 until 24 July 2022](https://github.com/cardano-indonesia/cardano-indonesia-operations/issues/50)
